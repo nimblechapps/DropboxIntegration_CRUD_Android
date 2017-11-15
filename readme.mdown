@@ -1,0 +1,41 @@
+# How to Integrate Dropbox with your Android APP and Perform CRUD Action
+
+#### **Introduction**
+
+As a mobile app developer, we all know the importance of Dropbox. Dropbox is the best tool for storage. If you need step by step explanation of the topic, you can check our article here: [How to Integrate Dropbox with your Android APP and Perform CRUD Action](https://insights.nimblechapps.com/app-development/android-app-development/how-to-integrate-dropbox-with-your-android-app-and-perform-crud-action)
+
+#### **To Integrate the DROPBOX API in your android application, follow the following steps:**
+
+ 1. DropboxClientFactory To initialize the client.
+ 2. PicassoClient Configure picasso to know about special thumbnail requests.
+ 3. UploadFileTask Async task to upload a file to a Dropbox.
+ 4. UriHelpers Utility functions to support Uri conversion and processing.
+
+####**Now We Check Step by Step How to Upload it to The Dropbox**
+1.	Use Dropbox Initialization.
+2.	Code For Asynchornous Task for Image Upload.
+3.	On Click Of The Button, we upload the image to the DROPBOX.
+4.	Initialize the Session of the Key pair to authenticate with Dropbox.
+5.	For Asynchronous Task For Image Upload
+6.	we have a button to upload the image to Dropbox. We have stored the path and URI of the image in shared preference.
+
+
+#### **Now Run your project and check the output. The below given emulator output I got**
+
+[![N|Solid](https://insights.nimblechapps.com/wp-content/uploads/2017/10/dropbox-integration-329x565.png)](https://insights.nimblechapps.com/app-development/android-app-development/how-to-integrate-dropbox-with-your-android-app-and-perform-crud-action)
+
+This tutorial has been presented by Nimblechapps - The coolest [Android App Development Company](https://www.nimblechapps.com/android-app-development-company). Checkout our [Android APP Portfolio](https://www.nimblechapps.com/portfolio/mobile-app-development).
+
+     Provide us your valuable comment in our blog comment section.
+
+##### **Read other Interesting android blog:**
+
+ 1. [Creating Tinder Like Swipe Slider For Android](https://insights.nimblechapps.com/app-development/android-app-development/creating-tinder-like-swipe-slider-for-android)
+ 2. [Integrate Firebase Push Notifications in Android Application](https://insights.nimblechapps.com/app-development/android-app-development/integrate-firebase-push-notifications-android-application)
+ 3. [Alert Dialog And Custom Dialog For Android](https://insights.nimblechapps.com/app-development/android-app-development/alert-dialog-custom-dialog-android)
+ 4. [Using MongoDB For Storing and Retrieving Data For Android](https://insights.nimblechapps.com/app-development/android-app-development/using-mongodb-storing-retrieving-data-android)
+ 5. [How To Use the Font Awesome Icon Pack in an Android](https://insights.nimblechapps.com/app-development/android-app-development/how-to-use-the-font-awesome-icon-pack-in-an-android)
+
+## **License**
+
+Copyright (c) 2017 Nimblechapps
